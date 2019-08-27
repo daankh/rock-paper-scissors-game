@@ -3,7 +3,7 @@ Logs
 logs
 *.log
 npm-debug.log*
-package-lock.json
+# package-lock.json
 node_modules/
 # css/
 
