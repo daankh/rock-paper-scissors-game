@@ -1,9 +1,9 @@
 ### Node ###
-# Logs
-# logs
-# *.log
-# npm-debug.log*
-# package-lock.json
+Logs
+logs
+*.log
+npm-debug.log*
+package-lock.json
 node_modules/
 # css/
 
@@ -23,4 +23,4 @@ node_modules/
 ### Webstorm ##
 .idea/
 
-css/
+# css/
